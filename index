@@ -10,6 +10,7 @@
     <h1>Homepage</h1>
     <p><a href="https://www.theodinproject.com/about">click me</a></p>
     <a href="pages/about.html">about</a>
+    <img src="image/dog.jpg">
     
 </body>
 </html>
